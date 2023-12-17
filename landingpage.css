@@ -5,14 +5,14 @@
     font-weight: 300;
 }
 
-.personsimage {
+/*.personsimage {
     background-image: rgb(169, 43, 106) url("https://www.wallpaperup.com/uploads/wallpapers/2012/04/11/2128/b1500d44e6dc388bc8a6d3a7cab8bffe.jpg") repeat-x;
     background: fixed;
     
-}
+}*/
 
-.personsimage span {
-    background-image: rgb(169, 43, 106) url("https://www.wallpaperup.com/uploads/wallpapers/2012/04/11/2128/b1500d44e6dc388bc8a6d3a7cab8bffe.jpg") repeat-x;
+.personsimage img {
+    background-image: rgb(169, 43, 106) url("https://mastersofwealth.com.au/img/speakers/Robert_o.png") center;
     background: fixed;
     
 }
